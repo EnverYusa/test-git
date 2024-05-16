@@ -6,3 +6,5 @@ testforgitforworking12345
 ПЛАЧУЩЕЕ НЕБО ПОД НОГАМИ
 
 тест изменений с удалённого репозитория к локальному
+Add line
+add new stroke
