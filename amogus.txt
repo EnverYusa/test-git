@@ -8,3 +8,4 @@ testforgitforworking12345
 тест изменений с удалённого репозитория к локальному
 Add line
 add new stroke
+Ласт линия
