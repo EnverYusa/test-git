@@ -10,3 +10,7 @@ Add line
 add new stroke
 Ласт линия
 new branch line
+
+
+
+новый лайн для гуи
